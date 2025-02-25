@@ -1,12 +1,13 @@
 {
   "language": "en",
   "words": [
-    "Nepo",
     "Coverate",
-    "wireframe",
+    "darkorange",
     "lcov",
+    "Nepo",
     "Pellegrini",
-    "stackoverflow"
+    "stackoverflow",
+    "wireframe"
   ],
   "ignorePaths": [
     "node_modules/**",
